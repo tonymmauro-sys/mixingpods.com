@@ -1,12 +1,35 @@
+# Keep the pages.dev preview out of search results until the custom domain is attached.
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+# RSS / Atom feeds
 /feed/*
+  Content-Type: application/rss+xml; charset=utf-8
+/rss
+  Content-Type: application/rss+xml; charset=utf-8
+/rss/
   Content-Type: application/rss+xml; charset=utf-8
 /comments/feed/*
   Content-Type: application/rss+xml; charset=utf-8
-/*/feed/*
+/author/:user/feed/*
   Content-Type: application/rss+xml; charset=utf-8
+/category/:name/feed/*
+  Content-Type: application/rss+xml; charset=utf-8
+/tag/:name/feed/*
+  Content-Type: application/rss+xml; charset=utf-8
+/:slug/feed/*
+  Content-Type: application/rss+xml; charset=utf-8
+
+# Sitemaps (exact paths; mid-path splats are not allowed)
+/image-sitemap-1.xml
+  Content-Type: application/xml; charset=utf-8
+/news-sitemap.xml
+  Content-Type: application/xml; charset=utf-8
+/sitemap-1.xml
+  Content-Type: application/xml; charset=utf-8
 /sitemap.xml
   Content-Type: application/xml; charset=utf-8
-/sitemap-*.xml
-  Content-Type: application/xml; charset=utf-8
-/*-sitemap-*.xml
+/video-sitemap-1.xml
   Content-Type: application/xml; charset=utf-8
