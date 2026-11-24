@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Planners &#8211; Mixing Pods</title>
+	<atom:link href="/tag/planners/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.html</link>
+	<description>Insights from work, home, and fatherhood and how they all mix together</description>
+	<lastBuildDate>Wed, 26 Dec 2018 19:40:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/01/cropped-2016-Mauros-Aug-044-3.jpg#038;ssl=1</url>
+	<title>Planners &#8211; Mixing Pods</title>
+	<link>/index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">156044041</site>	<item>
+		<title>Why &#8216;having fun&#8217; will be my top work goal in 2019!</title>
+		<link>/why-having-fun-will-be-my-top-work-goal-in-2019/</link>
+					<comments>/why-having-fun-will-be-my-top-work-goal-in-2019/#comments</comments>
+		
+		<dc:creator><![CDATA[Tony Mauro]]></dc:creator>
+		<pubDate>Wed, 26 Dec 2018 19:40:35 +0000</pubDate>
+				<category><![CDATA[@work]]></category>
+		<category><![CDATA[Goals]]></category>
+		<category><![CDATA[Planners]]></category>
+		<category><![CDATA[trello]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[Work/life]]></category>
+		<guid isPermaLink="false">/index.html</guid>
+
+					<description><![CDATA[This time of year, I spend hours writing and honing my goals for the following year. You could say that I am super compulsive about it (it&#8217;s sort ridiculous). I refuse to call them New Year&#8217;s Resolutions since that sounds so temporary and everyone knows they always get broken. I try and elicit my friends &#8230; <a href="/why-having-fun-will-be-my-top-work-goal-in-2019/" class="more-link">Continue reading<span class="screen-reader-text"> "Why &#8216;having fun&#8217; will be my top work goal in 2019!"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">This time of year, I spend hours writing and honing my goals for the following year.  You could say that I am super compulsive about it (it&#8217;s sort ridiculous). I refuse to call them New Year&#8217;s Resolutions since that sounds so temporary and everyone knows they always get broken.  I try and elicit my friends and family into the ritual and in return, I get a lot of eye rolls. After 20 years, Katie will at least humor me know and she&#8217;ll have at least 3 things on the ready for when I bring it up.  She makes sure that I know that she is done and doesn&#8217;t need any help editing them.</p>
+
+
+
+<p class="wp-block-paragraph">The good news is that this year, I will really be building on and executing a well rounded set of goals from last year across all the categories (yes, there are goal categories).  Family, Work, Community, and Personal. I usually land at 3-5 goals in each area, but no more than 5 and they all have to be meaty and measurable.</p>
+
+
+
+<p class="wp-block-paragraph">I use <a href="http://www.trello.com">trello</a> to organize them on the computer and love the mobile app. You can do all sorts of stuff with the cards like move them around, label, color code, create checklists, due dates, etc.  However, this year I&#8217;m also going to go back to a physical paper planner again. My friend <a href="http://www.candacemau.com">Candace Mau</a> and I been talking about the power of using pen and paper when you are getting creative and laying out your month, week, and day.</p>
+
+
+
+<p class="wp-block-paragraph">Anyway, the thing is that every year, I seem to put a goal to have fun in my list of work goals.  Mainly to protect myself from myself and to put in a reminder in there to not take things so seriously.  I&#8217;ve had some years where I was just wound up too tight, stressed about work, and and ended up in quite the funk (thank goodness for friends and family).</p>
+
+
+
+<p class="wp-block-paragraph">So this year, I think I&#8217;m leading with the goal to have fun, and will use it as a competitive advantage.  I am definitely at my best when I am having fun with the people that I work with, bringing positive energy, and just being conscious of my mindset.  I think the chances of getting the results that I am looking for across the other goals will be much higher and I&#8217;ll be more engaged (more on that in another blog).  I&#8217;m hoping it helps keep things in perspective, enables me to stay grateful, and laugh a bit at myself.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img data-recalc-dims="1" decoding="async" width="254" height="132" src="/wp-content/uploads/2018/12/Planners-1.png#038;ssl=1" alt="" class="wp-image-131"/><figcaption>My goal setting and planner addiction over the years</figcaption></figure></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/why-having-fun-will-be-my-top-work-goal-in-2019/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">127</post-id>	</item>
+	</channel>
+</rss>

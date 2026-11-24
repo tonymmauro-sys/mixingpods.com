@@ -1,0 +1,19 @@
+# WordPress feed permalinks (serve static XML, no build step)
+/feed /feed/index.xml 200
+/feed/ /feed/index.xml 200
+/feed/rss /feed/index.xml 200
+/feed/rss/ /feed/index.xml 200
+/feed/rss2 /feed/index.xml 200
+/feed/rss2/ /feed/index.xml 200
+/feed/rdf /feed/index.xml 200
+/feed/rdf/ /feed/index.xml 200
+/feed/atom /feed/index.xml 200
+/feed/atom/ /feed/index.xml 200
+/rss /feed/index.xml 200
+/rss/ /feed/index.xml 200
+/comments/feed /comments/feed/index.xml 200
+/comments/feed/ /comments/feed/index.xml 200
+
+# Per-post, category, tag, and author comment/post feeds
+/*/feed /:splat/feed/index.xml 200
+/*/feed/ /:splat/feed/index.xml 200

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Insights from the &#8216;Dad Pool&#8217;	</title>
+	<atom:link href="/insights-from-the-dad-pool/feed/" rel="self" type="application/rss+xml" />
+	<link>/insights-from-the-dad-pool/</link>
+	<description>Insights from work, home, and fatherhood and how they all mix together</description>
+	<lastBuildDate>Mon, 08 Jun 2020 19:19:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.5</generator>
+	<item>
+		<title>
+		By: Frank Aff		</title>
+		<link>/insights-from-the-dad-pool/#comment-28</link>
+
+		<dc:creator><![CDATA[Frank Aff]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 19:19:09 +0000</pubDate>
+		<guid isPermaLink="false">/index.html#comment-28</guid>
+
+					<description><![CDATA[Dad pool! Awesome! I love the focus on relationships and positively impacting the lives of others, community, and the world! Thanks for sharing!]]></description>
+			<content:encoded><![CDATA[<p>Dad pool! Awesome! I love the focus on relationships and positively impacting the lives of others, community, and the world! Thanks for sharing!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

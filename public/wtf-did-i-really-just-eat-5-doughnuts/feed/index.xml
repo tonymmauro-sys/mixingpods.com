@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: WTF&#8230; Did I really just eat 5 doughnuts?	</title>
+	<atom:link href="/wtf-did-i-really-just-eat-5-doughnuts/feed/" rel="self" type="application/rss+xml" />
+	<link>/wtf-did-i-really-just-eat-5-doughnuts/</link>
+	<description>Insights from work, home, and fatherhood and how they all mix together</description>
+	<lastBuildDate>Sun, 17 Feb 2019 16:51:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.5</generator>
+	<item>
+		<title>
+		By: Tony Mauro		</title>
+		<link>/wtf-did-i-really-just-eat-5-doughnuts/#comment-13</link>
+
+		<dc:creator><![CDATA[Tony Mauro]]></dc:creator>
+		<pubDate>Sun, 17 Feb 2019 16:51:07 +0000</pubDate>
+		<guid isPermaLink="false">/index.html#comment-13</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wtf-did-i-really-just-eat-5-doughnuts/#comment-12&quot;&gt;Erin Moloney&lt;/a&gt;.
+
+Thank you Erin, I really appreciate the note.  Unfortunately, it is so true that it can give you a stomach ache. :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wtf-did-i-really-just-eat-5-doughnuts/#comment-12">Erin Moloney</a>.</p>
+<p>Thank you Erin, I really appreciate the note.  Unfortunately, it is so true that it can give you a stomach ache. 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Erin Moloney		</title>
+		<link>/wtf-did-i-really-just-eat-5-doughnuts/#comment-12</link>
+
+		<dc:creator><![CDATA[Erin Moloney]]></dc:creator>
+		<pubDate>Sun, 17 Feb 2019 16:35:53 +0000</pubDate>
+		<guid isPermaLink="false">/index.html#comment-12</guid>
+
+					<description><![CDATA[Great post, Tony! Fun, funny and SO true about taking time for yourself!]]></description>
+			<content:encoded><![CDATA[<p>Great post, Tony! Fun, funny and SO true about taking time for yourself!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

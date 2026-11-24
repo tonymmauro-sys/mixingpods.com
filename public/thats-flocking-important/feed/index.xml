@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: That&#8217;s flocking important!	</title>
+	<atom:link href="/thats-flocking-important/feed/" rel="self" type="application/rss+xml" />
+	<link>/thats-flocking-important/</link>
+	<description>Insights from work, home, and fatherhood and how they all mix together</description>
+	<lastBuildDate>Sun, 06 Jan 2019 14:31:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.5</generator>
+	<item>
+		<title>
+		By: Tony Mauro		</title>
+		<link>/thats-flocking-important/#comment-7</link>
+
+		<dc:creator><![CDATA[Tony Mauro]]></dc:creator>
+		<pubDate>Sun, 06 Jan 2019 14:31:04 +0000</pubDate>
+		<guid isPermaLink="false">/index.html#comment-7</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/thats-flocking-important/#comment-6&quot;&gt;Sandy Glasser&lt;/a&gt;.
+
+Thank Sandy, it&#039;s been fun launching this and I&#039;m excited to see what insights surface.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/thats-flocking-important/#comment-6">Sandy Glasser</a>.</p>
+<p>Thank Sandy, it&#8217;s been fun launching this and I&#8217;m excited to see what insights surface.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sandy Glasser		</title>
+		<link>/thats-flocking-important/#comment-6</link>
+
+		<dc:creator><![CDATA[Sandy Glasser]]></dc:creator>
+		<pubDate>Sat, 05 Jan 2019 22:07:02 +0000</pubDate>
+		<guid isPermaLink="false">/index.html#comment-6</guid>
+
+					<description><![CDATA[Another good post!  I’m liking your musings Mr Tony!!]]></description>
+			<content:encoded><![CDATA[<p>Another good post!  I’m liking your musings Mr Tony!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

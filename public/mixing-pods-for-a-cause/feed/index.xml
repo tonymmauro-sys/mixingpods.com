@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Mixing pods for a cause!	</title>
+	<atom:link href="/mixing-pods-for-a-cause/feed/" rel="self" type="application/rss+xml" />
+	<link>/mixing-pods-for-a-cause/</link>
+	<description>Insights from work, home, and fatherhood and how they all mix together</description>
+	<lastBuildDate>Thu, 29 Aug 2019 22:45:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.5</generator>
+	<item>
+		<title>
+		By: Shelly		</title>
+		<link>/mixing-pods-for-a-cause/#comment-22</link>
+
+		<dc:creator><![CDATA[Shelly]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2019 19:29:49 +0000</pubDate>
+		<guid isPermaLink="false">/index.html#comment-22</guid>
+
+					<description><![CDATA[It was nice to meet you Tony!  It was a fun ride for a great cause!!  Lots of amazing people along the way. :-)]]></description>
+			<content:encoded><![CDATA[<p>It was nice to meet you Tony!  It was a fun ride for a great cause!!  Lots of amazing people along the way. 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
